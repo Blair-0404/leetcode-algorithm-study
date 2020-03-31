@@ -1,11 +1,9 @@
-package leetCode;
-
 import java.util.HashMap;
 import java.util.Map;
 
-class TwoSum {
+class TwoSumUni {
   public static void main(String[] args) {
-    TwoSum TW = new TwoSum();
+    TwoSumUni TW = new TwoSumUni();
     int[] nums = { 1, 2, 7, 11 };
     int target = 13;
 
